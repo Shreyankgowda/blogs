@@ -1,6 +1,6 @@
 <h1 align="center" >Blog application</h1>
 
-> Simple blog app in Django!
+> Simple blog app in Django
 
 ## Introduction
 
